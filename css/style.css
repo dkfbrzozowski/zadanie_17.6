@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+body {
+    background-color: #FFE4B5;
+    font-family: Lato;
+    color: #B8860B;
+}
+
+a {
+	color: #DC143C;
+}
